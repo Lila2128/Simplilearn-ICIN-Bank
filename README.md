@@ -10,7 +10,7 @@ Recently, the business analysts noticed a drop in the number of customers of the
 You are hired as one of the Full Stack Java developers and have been asked to develop the web application. The management team has provided you the requirements and their business model so that you can easily arrange different components of the application.
 
 <h3>Features of the application:</h3>
-<ul>
+<ul type='square'>
 <li>Registration</li>
 <li>Login</li>
 <li>Account transactions</li>
@@ -30,7 +30,7 @@ You are hired as one of the Full Stack Java developers and have been asked to de
   </ul>
   
 <h3>Project development guidelines:</h3>
-<ul type='disc'>
+<ul type='circle'>
 <li>The project will be delivered within four sprints with every sprint delivering a minimal viable product.</li>
 <li>It is mandatory to perform proper sprint planning with user stories to develop all the components of the project.</li>
 <li>The learner can use any technology from the above-mentioned technologies for different layers of the project.</li>
